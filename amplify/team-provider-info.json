@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mockapi-dev-211433-authRole",
+      "UnauthRoleArn": "arn:aws:iam::884319982890:role/amplify-mockapi-dev-211433-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::884319982890:role/amplify-mockapi-dev-211433-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-mockapi-dev-211433-deployment",
+      "UnauthRoleName": "amplify-mockapi-dev-211433-unauthRole",
+      "StackName": "amplify-mockapi-dev-211433",
+      "StackId": "arn:aws:cloudformation:us-east-2:884319982890:stack/amplify-mockapi-dev-211433/0ea51ae0-594c-11eb-86f8-0683c0507bf2",
+      "AmplifyAppId": "d3e315d4h82vlr"
+    }
+  }
+}
